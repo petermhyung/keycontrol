@@ -117,7 +117,7 @@ When creating a Virtual API key for an API (Part 2\)
 
 
 
-# 63 Major Platforms with Single Master API Keys – Detailed Risk Analysis
+# 63 Major Platforms with Single Master API Keys
 
 | Name | Description | Low-Permission Use Case | Risky Capability (Same Token) |
 |------|-------------|------------------------|------------------------------|
